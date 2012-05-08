@@ -1,6 +1,6 @@
 ##kalender.js
 
-Kalender.js is a basic front-end calendar that deals with overlapping events.
+Kalender.js is a basic front-end day calendar that deals with overlapping events.
 
 ##What?
 
