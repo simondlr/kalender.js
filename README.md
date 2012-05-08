@@ -4,7 +4,7 @@ Kalender.js is a basic front-end javascript day calendar that deals with overlap
 
 ##What?
 
-When displaying events for a day, it might occur that some events might clash. Visualising this might be difficult. Kalendar.js takes times and maps them onto a day to display. An example can be seen in calendar.html.
+When displaying events for a day, it might occur that some events might clash. Visualising this might be difficult. Kalendar.js takes times and maps them onto a day to display. [An example can be seen in here](http://simondlr.github.com/kalender.js/calendar.html).
 
 ##Why?
 
