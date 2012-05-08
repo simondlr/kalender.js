@@ -1,6 +1,6 @@
 ##kalender.js
 
-Kalender.js is a basic front-end day calendar that deals with overlapping events.
+Kalender.js is a basic front-end javascript day calendar that deals with overlapping events.
 
 ##What?
 
@@ -12,7 +12,7 @@ I made this when I applied for an internship. It isn't being used, and it seems 
 
 ##How?
 
-In script.js, replace the json_input with JSON in the format of [{"start":"8:30","end":"9:30"}, etc...}]. Times are currently in the format of <hour>:<minutes>. The format is 24 hours. The calendar currently runs from 9am to 21pm. It can be changed. Just change all instances of start_time and end_time.
+In script.js, replace the json_input with JSON in the format of [{"start":"8:30","end":"9:30"}, etc...}]. Times are currently in the format of 'hour':'minutes'. The format is 24 hours. The calendar currently runs from 9am to 21pm. It can be changed. Just change all instances of start_time and end_time.
 
 ##Future plans
 
