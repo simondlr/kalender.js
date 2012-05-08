@@ -1,0 +1,81 @@
+/*
+blue: 4b6ea9
+background: ececec
+border: d6d6d6
+text: 686868
+small text: c7c7c7
+*/
+
+body {
+font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+
+#time_box {
+position: relative;
+float: left;
+width: 60px;
+color: #686868;
+text-align: right;
+}
+
+#main {
+float: left;
+margin-left: 10px;
+position: relative;
+width: 620px;
+padding-right: 10px;
+border-left: 1px solid #d6d6d6;
+background-color: #ececec;
+}
+
+.blue_box {
+padding-left: 4px;
+height: 100%;
+float: left;
+background-color: #4b6ea9;
+}
+
+.event_details{
+position: absolute;
+margin-left: 10px;
+margin-top: 5px;
+}
+
+.event_header{
+font-weight: bold;
+font-size: 12px;
+color: #4b6ea9;
+}
+
+.event_location{
+font-size: 9px;
+color: #686868;
+}
+
+.hour_text{
+float: right;
+font-weight: bold;
+font-size: 12px;
+margin-top: -10px;
+height: 12px;
+margin-bottom: 28px;
+}
+
+.half_hour_text{
+width: 100%;
+float: right;
+font-size: 10px ;
+margin-top: -10px;
+margin-bottom: 30px ;
+height: 10px;
+color: #d6d6d6;
+}
+
+.am_pm_text{
+text-align: right;
+font-weight: none;
+font-size: 8px;
+color: #d6d6d6;
+}
